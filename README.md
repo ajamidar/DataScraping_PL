@@ -1,6 +1,6 @@
 # 🏟 Premier League Player Data Scraper
 
-A mini-project that demonstrates how to scrape Premier League player data using Python. The project utilizes `BeautifulSoup` for HTML parsing and `pandas` for structuring and exporting the data, providing a hands-on example of web data extraction and transformation.
+A mini-project that demonstrates how to scrape Premier League player data using Python straight to a CSV file. The project utilizes `BeautifulSoup` for HTML parsing and `pandas` for structuring and exporting the data, providing a hands-on example of web data extraction and transformation.
 
 ---
 
